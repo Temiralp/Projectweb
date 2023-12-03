@@ -1,5 +1,5 @@
 public class UI {
-    public void Button2(int a);
+    public void Button2(int d);
 
 
 }
