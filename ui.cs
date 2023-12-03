@@ -1,4 +1,6 @@
 public class UI {
+    public void Button2(int e);
+
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10,7 +12,7 @@ public class UI {
 =======
 =======
     public void Button2(int d,int s);
-    public void Attacke(int a) { }
+    public void Attackef(int a,int e) { }
     public void Damagee(int k) { }
 
 >>>>>>> 869896d7bbb2a72fd7cee7203c328676c5313434
@@ -22,10 +24,7 @@ public class UI {
     
 
 
-    public void Attacks(int a);
-    public void Damages(int k);
 
-    int a = 0;
 
 
 
