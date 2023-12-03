@@ -1,17 +1,11 @@
 public class UI {
 
     public void Button2(int d,int s);
-    public void Attack(int a) { }
-    public void Damage(int k) { }
 
-    public void Attack(int f)
-    {
+    public void Attacks(int a);
+    public void Damages(int k);
 
-    }
-    public void Damage(int x)
-    {
-
-    }
+    int a = 0;
 
 
 
