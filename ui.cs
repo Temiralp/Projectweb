@@ -1,4 +1,6 @@
 public class UI {
-    public void Button2(int b);
+
+    public void Button2(int s);
+
 
 }
