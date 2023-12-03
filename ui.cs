@@ -1,9 +1,13 @@
 public class UI {
     public void Button2(int e);
 
-<<<<<<< HEAD
-=======
+
+    public void Button2(int d,int s);
+    public void Attackef(int a) { }
+    public void Damagee(int k) { }
+
     public void Button2(string b = "ilayda");
+
 
 
     
