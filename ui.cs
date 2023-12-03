@@ -6,6 +6,11 @@ public class UI {
     
 
 
+    public void Attacks(int a);
+    public void Damages(int k);
+
+    int a = 0;
+
 
 
 
