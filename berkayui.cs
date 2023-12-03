@@ -1,0 +1,4 @@
+public class kullanýcý
+{
+    void kullanýcýBilgisi(int yas, string ad, string soyad);
+}
