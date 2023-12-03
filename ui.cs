@@ -4,14 +4,17 @@ public class UI {
     public void Attacke(int a) { }
     public void Damagee(int k) { }
 
-    public void Attack(int f)
-    {
+    public void Button2(string b = "ilayda");
 
-    }
-    public void Damage(int x)
-    {
 
-    }
+
+    
+
+
+    public void Attacks(int a);
+    public void Damages(int k);
+
+    int a = 0;
 
 
 
