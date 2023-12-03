@@ -1,6 +1,7 @@
 public class UI {
 
-    public void Button2(int d,int s);
+
+    public void Button2(int d,int s,int yas,string name);
     public void Attacke(int a) { }
     public void Damagee(int k) { }
 
@@ -15,6 +16,7 @@ public class UI {
     public void Damages(int k);
 
     int a = 0;
+
 
 
 
