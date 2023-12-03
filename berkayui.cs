@@ -1,6 +1,8 @@
 public class kullanýcý
 {
     void kullanýcýBilgisi(int yas, string ad, string soyad);
+   
+    
     int a = 0;
     int b = 1;
 }
