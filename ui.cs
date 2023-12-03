@@ -4,6 +4,15 @@ public class UI {
     public void Attack(int a) { }
     public void Damage(int k) { }
 
+    public void Attack(int f)
+    {
+
+    }
+    public void Damage(int x)
+    {
+
+    }
+
 
 
 
