@@ -1,1 +1,3 @@
-public class Bc{ }
+public class Bc{
+    void ali();
+}
