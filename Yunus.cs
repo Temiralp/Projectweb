@@ -1,1 +1,1 @@
-public class Yunus { }
+spublic class Yunus { }
