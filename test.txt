@@ -1,12 +1,16 @@
 public class Bc{
     void ali();
 
+abcd
 
 
 
-ttt
 
-    void deg()
-    }
+
+
+
+    
+    
+
 
 }
