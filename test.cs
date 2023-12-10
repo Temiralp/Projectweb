@@ -3,5 +3,10 @@ public class Bc{
 
 
 
+
 ttt
+
+    void deg()
+    }
+
 }
