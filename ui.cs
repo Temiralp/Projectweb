@@ -34,8 +34,18 @@ public class UI {
     
 
 
+<<<<<<< HEAD
+    public void Attack(int )
+    {
+=======
+>>>>>>> 464afbc647878195df72e3f1c1e2f6275474551a
 
 
+<<<<<<< HEAD
+    }
+    
+=======
+>>>>>>> 464afbc647878195df72e3f1c1e2f6275474551a
 
 
 
